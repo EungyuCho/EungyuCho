@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=3178C6&height=300&section=header&text=new%20Jay();&fontSize=90)
-
-
+![header](https://capsule-render.vercel.app/api?&type=wave&color=gradient&text=new%20Jay();&height=300)
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
