@@ -16,11 +16,10 @@ Please watch me grow up. 👨‍💻
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?&logo=PostgreSQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-Oracle-F80000?&logo=Oracle&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/-Travis%20CI-3EAAAF?&logo=Travis%20CI&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-TypeORM-e93524"/></a>
 </p>
 
-<h3 align="center">📚 Connect 📚</h3>
+<h3 align="center">📞 Connect 📞</h3>
 
 <p align="center">
   <a href="https://velog.io/@whdud132"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@whdud132"/></a>&nbsp
