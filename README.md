@@ -16,6 +16,7 @@ Please watch me grow up. 👨‍💻
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?&logo=PostgreSQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-Oracle-F80000?&logo=Oracle&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/-React-2496ED?&logo=React&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-TypeORM-e93524"/></a>
 </p>
 
