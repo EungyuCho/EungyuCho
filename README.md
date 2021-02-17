@@ -25,3 +25,6 @@ Please watch me grow up. 👨‍💻
   <a href="https://velog.io/@whdud132"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@whdud132"/></a>&nbsp
   <a href="mailto:gameclow2@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gameclow2@gmail.com"/></a>
 </p>
+
+  ![EungyuCho's github stats](https://github-readme-stats.vercel.app/api?username=EungyuCho&show_icons=true)
+  ![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=cho2304)
