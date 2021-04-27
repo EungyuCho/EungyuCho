@@ -13,10 +13,11 @@ Please watch me grow up. 👨‍💻
   <img src="https://img.shields.io/badge/-Typescript-3178C6?&logo=Typescript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-Spring-6DB33F?&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-NestJS-E0234E?&logo=NestJS&logoColor=white"/></a><br>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?&logo=PostgreSQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-GraphQL-E10098?&logo=GraphQL&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/-Nextjs-000000?&logo=Next.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/-Apollo-311C87?&logo=Apollo%20GraphQL&logoColor=white"/></a>&nbsp
 </p>
 
 <h3 align="center">📞 Connect 📞</h3>
