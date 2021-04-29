@@ -1,4 +1,9 @@
+import feedparser, datetime
 
+velog_blog_rss_uri="https://v2.velog.io/rss/@whdud132"
+feed = feedparser.parse(velog_blog_rss_uri)
+
+markdown_text = """
 ![header](https://capsule-render.vercel.app/api?&type=wave&color=gradient&text=new%20Jay();&height=300)
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
@@ -32,8 +37,22 @@ Please watch me grow up. 👨‍💻
   ![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=cho2304)
 
 ### ✍ Recent blog posts 
-[Apollo 전역 상태 관리(Feat. cookie with JWT)](https://velog.io/@whdud132/Apollo-%EC%A0%84%EC%97%AD-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%ACFeat.-cookie-with-JWT) <br>
-[Next.js Apollo Client 연결 시 Cors 해결 방법](https://velog.io/@whdud132/Next.js-Apollo-Client-%EC%97%B0%EA%B2%B0-%EC%8B%9C-Cors-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95) <br>
-[[Apollo Client 3] Cache](https://velog.io/@whdud132/Apollo-Client-3-Cache) <br>
-[4월 13일 Today I Learned](https://velog.io/@whdud132/4%EC%9B%94-13%EC%9D%BC-Today-I-Learned) <br>
-[4월 12일 Today I Learned](https://velog.io/@whdud132/4%EC%9B%94-12%EC%9D%BC-Today-I-Learned) <br>
+""" # list of blog posts will be appended here
+
+lst = []
+
+j=0
+for i in feed['entries']:
+    j+= 1
+    if j >5:
+        break
+    else:
+        # dt = datetime.datetime.strptime(i['published'], "%a, %d %B %Y %H:%M:%S %z").strftime("%B %d, %Y")
+        dt = i['published']
+        # markdown_text += f"[{i['title']}]({i['link']}) - {dt}<br>\n"
+        markdown_text += f"[{i['title']}]({i['link']}) <br>\n"
+        print(i['link'], i['title'])
+
+f = open("README.md",mode="w", encoding="utf-8")
+f.write(markdown_text)
+f.close()
