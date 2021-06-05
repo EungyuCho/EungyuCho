@@ -32,8 +32,8 @@ Please watch me grow up. 👨‍💻
   ![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=cho2304)
 
 ### ✍ Recent blog posts 
+[블랙커피 스터디 중간 회고](https://velog.io/@whdud132/%EB%B8%94%EB%9E%99%EC%BB%A4%ED%94%BC-%EC%8A%A4%ED%84%B0%EB%94%94-%EC%A4%91%EA%B0%84-%ED%9A%8C%EA%B3%A0) <br>
 [Javascript를 공부하고나서 되돌아보는 React Hook](https://velog.io/@whdud132/Javascript%EB%A5%BC-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B3%A0%EB%82%98%EC%84%9C-%EB%90%98%EB%8F%8C%EC%95%84%EB%B3%B4%EB%8A%94-React-Hook) <br>
 [Oauth2.0 kakao without passport](https://velog.io/@whdud132/Oauth2.0-kakao-without-passport) <br>
 [Leetcode 981. Time Based Key-Value Store](https://velog.io/@whdud132/Leetcode-981.-Time-Based-Key-Value-Store) <br>
 [Husky 및 Lint-staged Setup](https://velog.io/@whdud132/Husky-%EB%B0%8F-Lint-staged-Setup) <br>
-[Apollo 전역 상태 관리(Feat. cookie with JWT)](https://velog.io/@whdud132/Apollo-%EC%A0%84%EC%97%AD-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%ACFeat.-cookie-with-JWT) <br>
