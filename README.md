@@ -32,8 +32,8 @@ Please watch me grow up. 👨‍💻
   ![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=cho2304)
 
 ### ✍ Recent blog posts 
+[EC2 jenkins 연동 경과 및 실패 후기](https://velog.io/@whdud132/EC2-jenkins-%EC%97%B0%EB%8F%99-%EA%B2%BD%EA%B3%BC-%EB%B0%8F-%EC%8B%A4%ED%8C%A8-%ED%9B%84%EA%B8%B0) <br>
 [블랙커피 스터디 레벨1 회고](https://velog.io/@whdud132/%EB%B8%94%EB%9E%99%EC%BB%A4%ED%94%BC-%EC%8A%A4%ED%84%B0%EB%94%94-%EB%A0%88%EB%B2%A81-%ED%9A%8C%EA%B3%A0) <br>
 [Next.js Typescript로 시작하기(With create-next-app)](https://velog.io/@whdud132/Next.js-Typescript%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0With-create-next-app) <br>
 [블랙커피 스터디 중간 회고](https://velog.io/@whdud132/%EB%B8%94%EB%9E%99%EC%BB%A4%ED%94%BC-%EC%8A%A4%ED%84%B0%EB%94%94-%EC%A4%91%EA%B0%84-%ED%9A%8C%EA%B3%A0) <br>
 [Javascript를 공부하고나서 되돌아보는 React Hook](https://velog.io/@whdud132/Javascript%EB%A5%BC-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B3%A0%EB%82%98%EC%84%9C-%EB%90%98%EB%8F%8C%EC%95%84%EB%B3%B4%EB%8A%94-React-Hook) <br>
-[Oauth2.0 kakao without passport](https://velog.io/@whdud132/Oauth2.0-kakao-without-passport) <br>
