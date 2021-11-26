@@ -18,7 +18,6 @@ Please watch me grow up. 👨‍💻
   <img src="https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-GraphQL-E10098?&logo=GraphQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-Nextjs-000000?&logo=Next.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/-Apollo-311C87?&logo=Apollo%20GraphQL&logoColor=white"/></a>&nbsp
 </p>
 
 <h3 align="center">📞 Connect 📞</h3>
