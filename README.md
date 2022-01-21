@@ -25,9 +25,4 @@ Interested in react and javascript
   ![EungyuCho's github stats](https://github-readme-stats.vercel.app/api?username=EungyuCho&show_icons=true)
   ![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=cho2304)
 
-### ✍ Recent blog posts 
-[코린이가 도전하는 버그픽스(typescript type helper)](https://velog.io/@whdud132/%EC%BD%94%EB%A6%B0%EC%9D%B4%EA%B0%80-%EB%8F%84%EC%A0%84%ED%95%98%EB%8A%94-%EB%B2%84%EA%B7%B8%ED%94%BD%EC%8A%A4typescript-type-helper) <br>
-[[1장] DynamoDB 테이블 생성 및 Lambda trigger연동](https://velog.io/@whdud132/1%EC%9E%A5-DynamoDB-%ED%85%8C%EC%9D%B4%EB%B8%94-%EC%83%9D%EC%84%B1-%EB%B0%8F-Lambda-trigger%EC%97%B0%EB%8F%99) <br>
-[[Intro] 주니어 개발자의 검색엔진 연동 테스트](https://velog.io/@whdud132/Intro) <br>
-[📩 Front-End 개발자가 되기까지의 기록(Feat. 취준끝!)](https://velog.io/@whdud132/Front-End-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EA%B8%B0%EA%B9%8C%EC%A7%80%EC%9D%98-%EA%B8%B0%EB%A1%9DFeat.-%EC%B7%A8%EC%A4%80%EB%81%9D) <br>
-[AllHtmlEntities is not a constructor 트러블 슈팅](https://velog.io/@whdud132/AllHtmlEntities-is-not-a-constructor-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85) <br>
+### ✍ [Resume](https://romantic-ceres-181.notion.site/c6010c7118384c52baeeba2396e48454) <br>
