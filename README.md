@@ -1,10 +1,8 @@
 
-![header](https://capsule-render.vercel.app/api?&type=wave&color=gradient&text=new%20Jay();&height=300)
+![header](https://capsule-render.vercel.app/api?&type=wave&color=gradient&text=Asa&height=300)
 
-<h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
 Frontend Engineer <br>
-Interested in react and javascript
 </p>
 <h3 align="center">📚 Technology Stack 📚</h3>
 
@@ -23,6 +21,3 @@ Interested in react and javascript
 </p>
 
   ![EungyuCho's github stats](https://github-readme-stats.vercel.app/api?username=EungyuCho&show_icons=true)
-  ![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=cho2304)
-
-### ✍ [Resume](https://romantic-ceres-181.notion.site/c6010c7118384c52baeeba2396e48454) <br>
