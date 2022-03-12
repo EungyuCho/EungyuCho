@@ -18,6 +18,8 @@ Frontend Engineer <br>
 
 <p align="center">
   <a href="mailto:gameclow2@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gameclow2@gmail.com"/></a>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feungyucho%2Fhit-counter&count_bg=%23E9A61A&title_bg=%23BDC1E1&icon=&icon_color=%23DBAC2D&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 </p>
 
   ![EungyuCho's github stats](https://github-readme-stats.vercel.app/api?username=EungyuCho&show_icons=true)
